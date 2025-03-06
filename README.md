@@ -23,25 +23,17 @@ Developed by **Abner Augusto Pereira Diniz** (RA: 168476) at the Universidade Fe
   - Provides interactive elements such as buttons, checkboxes, and entry fields.
   - Displays real-time feedback including error messages for failed operations (e.g., no results found, all images already inserted).
 
-- **Experimental Analysis**:  
-  - The project includes performance tests using a dataset of up to 50,000 entries.
-  - Experimental results indicate efficient operations with average execution times:
-    - **Search**: ~0.0059 seconds
-    - **Insertion**: ~0.0759 seconds
-    - **Deletion**: ~0.0359 seconds
-    - **Printing (In-Order Traversal)**: ~0.0085 seconds
-
 ## ✅ Technologies used
 
 - [Python](https://www.python.org/)
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 - [Pillow (PIL)](https://python-pillow.org/)
 
-## Methodology
+## 🧾 Methodology
 
 The project employs a custom B-Tree with a minimum degree (*t = 3*), ensuring each node (except the root) contains at least `t - 1` keys and at most `2t - 1` keys. The B-Tree remains balanced to guarantee O(log n) performance for its operations. Image files are organized in the **Banco_Imagens** folder, and filenames are sorted using Python’s `re` module for proper lexicographical ordering.
 
-## Experimental Analysis
+## 🧪 Experimental Analysis
 
 The project was tested on a system with the following configuration:
 - **Hardware**: Intel i5-13600K, 32GB DDR4, 3.50 GHz
