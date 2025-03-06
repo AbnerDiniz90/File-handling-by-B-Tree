@@ -66,13 +66,13 @@ The project was tested on a system with the following configuration:
    Execute the main Python script:
 
    ```bash
-   python main.py
+   python GUI.py
    
 4. **Interact with the GUI**
-  - Insertion: Choose between inserting a single image or all images at once.
-  - Search: Input a category or partial filename to display matching images.
-  - Deletion: Enter a category name to delete all images associated with that category.
-  - Print: Display the B-Tree content in sorted order.
+    - Insertion: Choose between inserting a single image or all images at once.
+    - Search: Input a category or partial filename to display matching images.
+    - Deletion: Enter a category name to delete all images associated with that category.
+    - Print: Display the B-Tree content in sorted order.
 
 ## References
   - RODEH, O.; BACIK, J.; MASON, C. "BTRFS", ACM Transactions on Storage, 2013.
