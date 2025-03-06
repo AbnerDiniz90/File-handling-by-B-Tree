@@ -1,6 +1,6 @@
 # File Manager Using B-Tree
 
-![Python Badge](https://img.shields.io/badge/Python-orange?style=for-the-badge&logo=python)
+![Python Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=000000)
 
 ![Status](https://img.shields.io/badge/Status-Completed-green)  ![License](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
