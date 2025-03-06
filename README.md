@@ -1,6 +1,6 @@
 # File Manager Using B-Tree
 
-![Status](https://img.shields.io/badge/Status-Completed-green)  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-green)  ![License](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
 
 ## About the Project
 This project is a Python-based file manager and image retrieval system built using a custom B-Tree data structure and a graphical user interface. The application allows users to manage image files stored in the **Banco_Imagens** folder by performing operations such as insertion, deletion, search, and in-order display of the stored image entries.
