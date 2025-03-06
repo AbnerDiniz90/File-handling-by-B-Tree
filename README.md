@@ -7,8 +7,6 @@
 ## About the Project
 This project is a Python-based file manager and image retrieval system built using a custom B-Tree data structure and a graphical user interface. The application allows users to manage image files stored in the **Banco_Imagens** folder by performing operations such as insertion, deletion, search, and in-order display of the stored image entries.
 
-Developed by **Abner Augusto Pereira Diniz** (RA: 168476) at the Universidade Federal de São Paulo, the project demonstrates how B-Trees can be used to efficiently organize and retrieve files. It leverages a modern GUI built with [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) and image processing through [Pillow (PIL)](https://python-pillow.org/).
-
 ## :hammer: Features
 
 - **B-Tree Implementation**:  
